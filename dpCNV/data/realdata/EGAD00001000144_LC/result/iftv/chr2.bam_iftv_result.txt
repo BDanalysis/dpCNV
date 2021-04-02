@@ -1,0 +1,1 @@
+Chr	Start_pos	End_pos	Length	Gain/Loss	Copy_number	seg_RD

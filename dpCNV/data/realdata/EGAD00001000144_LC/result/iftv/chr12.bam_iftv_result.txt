@@ -1,0 +1,4 @@
+Chr	Start_pos	End_pos	Length	Gain/Loss	Copy_number	seg_RD
+/home/ty/桌面/真实数据/hg37/chr12	60001	94000	34000	Loss	0	0.5234107599469285
+/home/ty/桌面/真实数据/hg37/chr12	150001	188000	38000	Loss	1.0	0.5542786960189069
+/home/ty/桌面/真实数据/hg37/chr12	34832001	34844000	12000	Gain	12.0	0.706343799706821
